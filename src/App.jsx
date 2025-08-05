@@ -15,12 +15,7 @@ export const olya = {
   isMarried: true,
   partnerName: 'Maksym',
 };
-export const alex = {
-  name: 'Alex',
-  age: 25,
-  sex: 'm',
-  isMarried: false,
-};
+export const alex = { name: 'Alex', age: 25, sex: 'm', isMarried: false };
 
 export const App = () => (
   <div className="App">
